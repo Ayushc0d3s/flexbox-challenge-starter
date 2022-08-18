@@ -131,7 +131,12 @@ main article p {
 #social-links div div {
    display:flex;
   justify-content: space-between;
+}
 
+/* footer */
+footer {
+    text-align: center;
+    padding: 1rem;
 }
 
 
